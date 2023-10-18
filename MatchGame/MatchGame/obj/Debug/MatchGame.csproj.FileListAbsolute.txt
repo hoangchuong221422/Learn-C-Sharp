@@ -1,0 +1,15 @@
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\bin\Debug\MatchGame.exe.config
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\bin\Debug\MatchGame.exe
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\bin\Debug\MatchGame.pdb
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.AssemblyReference.cache
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\MainWindow.g.cs
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\App.g.cs
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.cache
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\MatchGame_MarkupCompile.lref
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\MainWindow.baml
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\MatchGame.g.resources
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\MatchGame.Properties.Resources.resources
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.GenerateResource.cache
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\MatchGame.csproj.CoreCompileInputs.cache
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\MatchGame.exe
+D:\Developer\Ebook\C#\Learn-C-Sharp\MatchGame\MatchGame\obj\Debug\MatchGame.pdb
